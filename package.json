@@ -2,7 +2,7 @@
   "name": "wedding-invitation",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/nithinmk26/e-Invitation",
+  "homepage": "https://github.com/nithinmk26/abhi-e-wedding",
   "type": "module",
   "scripts": {
     "dev": "vite",
